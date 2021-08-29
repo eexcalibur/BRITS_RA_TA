@@ -4,7 +4,7 @@ The original BRITS codes are from https://github.com/caow13/BRITS.
 We add the reliability-aware of missing value imputation and time-aware of time steps based on the BRITS. 
 
 To run the codes:
-python main.py or run the 
+python main.py or run the python notebook file (PhysioNet.ipynb)
 
 
 
